@@ -1,0 +1,60 @@
+mode = "dark"
+
+# Foundation & Accents
+accent     = "#19a7a6" # Vibrant title teal/cyan
+cursor     = "#1fc8db" # Glowing Paul Atreides spice-blue eye highlight
+selection  = "#3f1c13" # Deep desert rust shadow
+muted      = "#4a2820" # Desert nightstone (comments, inactive items)
+
+# Window Borders & Halos
+border                 = "#e07b22" # Radiant amber-orange sun halo rim
+hyprland_active_border = "#e07b22" # Active window border in Hyprland & Shell
+
+# Surfaces & Backgrounds
+background         = "#140a08" # Deep shadowed obsidian-brown from cloak base
+dark_background    = "#0e0705" # Deeper brown for sidebars
+darker_background  = "#080403" # Deepest shadow
+lighter_background = "#241310" # Card/popup surface
+
+# Typography & Foregrounds
+foreground         = "#f5d496" # Pale sand text color from author typography
+dark_foreground    = "#8c7d6e" # Subdued text
+light_foreground   = "#fae8c6" # Bright text
+bright_foreground  = "#fae8c6" # Sun-bleached desert crest highlight
+
+# Normal Colors (ANSI 1–7)
+red     = "#b53b1b" # Deep sunburst burnt rust
+orange  = "#d97a1e" # Spice amber
+yellow  = "#d97a1e" # Mid-desert glow
+green   = "#1d8e87" # Darker planetary teal
+cyan    = "#19a7a6" # Primary Dune title teal
+blue    = "#14859d" # Deep turquoise / moon shadow
+magenta = "#8c382b" # Warm terracotta
+brown   = "#5a2718" # Deep spice earth
+
+# Bright Colors (ANSI 9–14)
+bright_red     = "#d64b28" # Fiery atmospheric rim
+bright_orange  = "#f3a63b" # Bright golden sun horizon
+bright_yellow  = "#f3a63b" # Bright golden sun horizon
+bright_green   = "#2dc2b5" # Vivid emerald-teal flare
+bright_cyan    = "#45ded6" # High-glow celestial teal
+bright_blue    = "#1fc8db" # Glowing spice eyes
+bright_magenta = "#af4938" # Dust storm rose
+
+# ANSI 0-15 Aliases
+color0  = "#241310"
+color1  = "#b53b1b"
+color2  = "#1d8e87"
+color3  = "#d97a1e"
+color4  = "#14859d"
+color5  = "#8c382b"
+color6  = "#19a7a6"
+color7  = "#eec07b"
+color8  = "#4a2820"
+color9  = "#d64b28"
+color10 = "#2dc2b5"
+color11 = "#f3a63b"
+color12 = "#1fc8db"
+color13 = "#af4938"
+color14 = "#45ded6"
+color15 = "#fae8c6"
