@@ -2,12 +2,10 @@ mode = "dark"
 
 # Foundation & Accents
 accent     = "#19a7a6" # Vibrant title teal/cyan
-cursor     = "#1fc8db" # Glowing Paul Atreides spice-blue eye highlight
 selection  = "#3f1c13" # Deep desert rust shadow
 muted      = "#4a2820" # Desert nightstone (comments, inactive items)
 
 # Window Borders & Halos
-border                 = "#e07b22" # Radiant amber-orange sun halo rim
 hyprland_active_border = "#e07b22" # Active window border in Hyprland & Shell
 
 # Surfaces & Backgrounds
@@ -34,7 +32,6 @@ brown   = "#5a2718" # Deep spice earth
 
 # Bright Colors (ANSI 9–14)
 bright_red     = "#d64b28" # Fiery atmospheric rim
-bright_orange  = "#f3a63b" # Bright golden sun horizon
 bright_yellow  = "#f3a63b" # Bright golden sun horizon
 bright_green   = "#2dc2b5" # Vivid emerald-teal flare
 bright_cyan    = "#45ded6" # High-glow celestial teal

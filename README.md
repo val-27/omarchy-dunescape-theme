@@ -4,7 +4,7 @@ An elegant, atmospheric dark theme for [Omarchy](https://omarchy.org/) Linux ins
 
 Featuring deep obsidian-brown cloak surfaces, sun-bleached desert sand typography, glowing spice-blue accents, and a radiant amber sun-halo border.
 
-![Dunescape Theme Preview](backgrounds/dunescape.jpeg)
+![Dunescape Theme Preview](preview.png)
 
 ## Features
 
